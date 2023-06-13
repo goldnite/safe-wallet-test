@@ -1,0 +1,20 @@
+{
+  "name": "safe-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@safe-global/api-kit": "^1.1.0",
+    "@safe-global/protocol-kit": "^1.0.1",
+    "@safe-global/safe-core-sdk-types": "^2.0.0",
+    "dotenv": "^16.1.4",
+    "ethers": "^5.7.2",
+    "ts-node": "^10.9.1"
+  }
+}
